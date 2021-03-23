@@ -1,0 +1,23 @@
+body {
+	color:#555559 !important;
+}
+
+.used_color div {
+	float: left !important;
+	padding: 5px;
+}
+
+.used_color div span {
+	color: #555559;
+}
+
+.footer_text {
+	position: absolute;
+	bottom: 10px;
+}
+.footer_text h3 {
+	text-align: center;
+}
+.header {
+	text-align: center;
+}

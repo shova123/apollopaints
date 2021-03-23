@@ -1,0 +1,17 @@
+[22-May-2016 06:35:41 Etc/GMT] PHP Notice:  Undefined index: fldr in /home/pureadve/public_html/assets_admin/tinymce/js/tinymce/plugins/filemanager/dialog.php on line 115
+[05-Jun-2016 08:37:42 Etc/GMT] PHP Notice:  Undefined index: fldr in /home/pureadve/public_html/assets_admin/tinymce/js/tinymce/plugins/filemanager/dialog.php on line 115
+[08-Jun-2016 07:35:38 Etc/GMT] PHP Notice:  Undefined index: fldr in /home/pureadve/public_html/assets_admin/tinymce/js/tinymce/plugins/filemanager/dialog.php on line 115
+[10-Jun-2016 09:34:13 Etc/GMT] PHP Notice:  Undefined index: fldr in /home/pureadve/public_html/assets_admin/tinymce/js/tinymce/plugins/filemanager/dialog.php on line 115
+[10-Jun-2016 09:36:51 Etc/GMT] PHP Notice:  Undefined index: fldr in /home/pureadve/public_html/assets_admin/tinymce/js/tinymce/plugins/filemanager/dialog.php on line 115
+[10-Jun-2016 09:36:51 Etc/GMT] PHP Notice:  Undefined index: editor in /home/pureadve/public_html/assets_admin/tinymce/js/tinymce/plugins/filemanager/dialog.php on line 98
+[10-Jun-2016 09:36:51 Etc/GMT] PHP Notice:  Undefined index: fldr in /home/pureadve/public_html/assets_admin/tinymce/js/tinymce/plugins/filemanager/dialog.php on line 115
+[10-Jun-2016 09:36:51 Etc/GMT] PHP Notice:  Undefined index: editor in /home/pureadve/public_html/assets_admin/tinymce/js/tinymce/plugins/filemanager/dialog.php on line 119
+[10-Jun-2016 09:36:51 Etc/GMT] PHP Notice:  Undefined index: lang in /home/pureadve/public_html/assets_admin/tinymce/js/tinymce/plugins/filemanager/dialog.php on line 120
+[10-Jun-2016 09:36:51 Etc/GMT] PHP Notice:  Undefined index: subfolder in /home/pureadve/public_html/assets_admin/tinymce/js/tinymce/plugins/filemanager/dialog.php on line 121
+[10-Jun-2016 09:36:51 Etc/GMT] PHP Notice:  Undefined index: editor in /home/pureadve/public_html/assets_admin/tinymce/js/tinymce/plugins/filemanager/dialog.php on line 176
+[10-Jun-2016 09:36:51 Etc/GMT] PHP Notice:  Undefined index: lang in /home/pureadve/public_html/assets_admin/tinymce/js/tinymce/plugins/filemanager/dialog.php on line 178
+[10-Jun-2016 09:36:51 Etc/GMT] PHP Notice:  Undefined index: editor in /home/pureadve/public_html/assets_admin/tinymce/js/tinymce/plugins/filemanager/dialog.php on line 199
+[10-Jun-2016 09:36:51 Etc/GMT] PHP Notice:  Undefined index: lang in /home/pureadve/public_html/assets_admin/tinymce/js/tinymce/plugins/filemanager/dialog.php on line 199
+[10-Jun-2016 09:37:21 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/pureadve/public_html/assets_admin/tinymce/js/tinymce/plugins/filemanager/utils.php on line 38
+[10-Jun-2016 09:37:26 Etc/GMT] PHP Warning:  mkdir(): No such file or directory in /home/pureadve/public_html/assets_admin/tinymce/js/tinymce/plugins/filemanager/utils.php on line 38
+[10-Jun-2016 09:37:26 Etc/GMT] PHP Notice:  Undefined index: verify in /home/pureadve/public_html/assets_admin/tinymce/js/tinymce/plugins/filemanager/create_folder.php on line 4

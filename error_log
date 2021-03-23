@@ -1,0 +1,15 @@
+[09-Mar-2016 04:10:07 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/webomatic/public_html/pure/application/views/includes/header_front.php on line 210
+[09-Mar-2016 04:10:07 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/webomatic/public_html/pure/application/views/includes/header_front.php on line 210
+[21-Mar-2016 04:18:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/webomatic/public_html/pure/application/modules/package/views/browse_list.php on line 104
+[21-Mar-2016 06:13:10 Etc/GMT] PHP Parse error:  syntax error, unexpected 'extras' (T_STRING) in /home/webomatic/public_html/pure/application/modules/pages/views/about_dropdown_list.php on line 86
+[21-Mar-2016 09:04:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/webomatic/public_html/pure/application/views/includes/footer_front.php on line 153
+[21-Mar-2016 09:05:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/webomatic/public_html/pure/application/views/includes/footer_front.php on line 153
+[21-Mar-2016 10:51:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/webomatic/public_html/pure/application/modules/home/views/index.php on line 76
+[23-Mar-2016 10:29:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/webomatic/public_html/pure/application/modules/personal/views/personal_form.php on line 238
+[29-Mar-2016 05:21:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/webomatic/public_html/pure/application/modules/region/views/region_form.php on line 224
+[29-Mar-2016 05:22:51 Etc/GMT] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/webomatic/public_html/pure/application/modules/region/views/region_form.php on line 224
+[30-Mar-2016 04:45:14 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::orde_by() in /home/webomatic/public_html/pure/application/views/includes/footer_front.php on line 177
+[30-Mar-2016 04:45:22 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::orde_by() in /home/webomatic/public_html/pure/application/views/includes/footer_front.php on line 177
+[30-Mar-2016 04:45:31 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::orde_by() in /home/webomatic/public_html/pure/application/views/includes/footer_front.php on line 177
+[30-Mar-2016 04:58:26 Etc/GMT] PHP Parse error:  syntax error, unexpected ',' in /home/webomatic/public_html/pure/application/modules/pages/controllers/Admin.php on line 395
+[31-Mar-2016 06:18:26 Etc/GMT] PHP Fatal error:  Call to a member function get_package() on null in /home/webomatic/public_html/pure/application/modules/pages/controllers/Admin.php on line 1032
